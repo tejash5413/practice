@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-01T23:53:10 IST" name="Default suite" finished-at="2023-05-01T23:53:24 IST" duration-ms="14637">
+    <groups>
+    </groups>
+    <test started-at="2023-05-01T23:53:10 IST" name="Default test" finished-at="2023-05-01T23:53:24 IST" duration-ms="14637">
+      <class name="excel.basic">
+        <test-method signature="testlogin(java.lang.String,java.lang.String)[pri:0, instance:excel.basic@1a4013]" started-at="2023-05-01T23:53:11 IST" name="testlogin" data-provider="ex" finished-at="2023-05-01T23:53:16 IST" duration-ms="5169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dvxvdsf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2323432]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method signature="testlogin(java.lang.String,java.lang.String)[pri:0, instance:excel.basic@1a4013]" started-at="2023-05-01T23:53:16 IST" name="testlogin" data-provider="ex" finished-at="2023-05-01T23:53:20 IST" duration-ms="4348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dfnjhg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7865thy7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method signature="testlogin(java.lang.String,java.lang.String)[pri:0, instance:excel.basic@1a4013]" started-at="2023-05-01T23:53:20 IST" name="testlogin" data-provider="ex" finished-at="2023-05-01T23:53:24 IST" duration-ms="4279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sfghgtfh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[67456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- excel.basic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
